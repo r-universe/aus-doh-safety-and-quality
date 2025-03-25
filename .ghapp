@@ -1,0 +1,10 @@
+{
+  "id": 63269705,
+  "created_at": "2025-03-25T02:13:07.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["qiverse"]
+}
