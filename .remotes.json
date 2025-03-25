@@ -1,0 +1,9 @@
+[
+  {
+    "package": "qiverse.azure",
+    "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+    "via": ["qiverse.powerbi"],
+    "subdir": "qiverse.azure",
+    "from": "qiverse.powerbi"
+  }
+]
