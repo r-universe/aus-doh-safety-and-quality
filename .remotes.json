@@ -14,6 +14,13 @@
     "from": "qiverse.qipatterns"
   },
   {
+    "package": "qiverse.azure",
+    "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+    "via": ["qiverse.qiplotly", "qiverse.qipatterns", "qiverse.sharepoint"],
+    "subdir": "qiverse.azure",
+    "from": "qiverse.qiplotly"
+  },
+  {
     "package": "qiverse.data",
     "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
     "via": ["qiverse.qimatrix"],
@@ -28,10 +35,24 @@
     "from": "qiverse.qimisc"
   },
   {
+    "package": "qiverse.qipatterns",
+    "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+    "via": ["qiverse.qiplotly"],
+    "subdir": "qiverse.qipatterns",
+    "from": "qiverse.qiplotly"
+  },
+  {
     "package": "qiverse.sharepoint",
     "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
     "via": ["qiverse.qipatterns"],
     "subdir": "qiverse.sharepoint",
     "from": "qiverse.qipatterns"
+  },
+  {
+    "package": "qiverse.sharepoint",
+    "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
+    "via": ["qiverse.qiplotly", "qiverse.qipatterns"],
+    "subdir": "qiverse.sharepoint",
+    "from": "qiverse.qiplotly"
   }
 ]
