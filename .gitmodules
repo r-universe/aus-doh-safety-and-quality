@@ -1,5 +1,49 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/aus-doh-safety-and-quality/aus-doh-safety-and-quality.r-universe.dev
 	branch = HEAD
+[submodule "qiverse.azure"]
+	path = qiverse.azure
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.azure
+[submodule "qiverse.data"]
+	path = qiverse.data
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.data
+[submodule "qiverse.powerbi"]
+	path = qiverse.powerbi
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.powerbi
+[submodule "qiverse.qimatrix"]
+	path = qiverse.qimatrix
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.qimatrix
+[submodule "qiverse.qimisc"]
+	path = qiverse.qimisc
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.qimisc
+[submodule "qiverse.qipatterns"]
+	path = qiverse.qipatterns
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.qipatterns
+[submodule "qiverse.qiplotly"]
+	path = qiverse.qiplotly
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.qiplotly
+[submodule "qiverse.sharepoint"]
+	path = qiverse.sharepoint
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.sharepoint
+[submodule "qiverse.snowflake"]
+	path = qiverse.snowflake
+	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
+	branch = main
+	subdir = qiverse.snowflake
