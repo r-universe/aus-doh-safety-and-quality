@@ -28,13 +28,6 @@
     "from": "qiverse.sharepoint"
   },
   {
-    "package": "qiverse.azure",
-    "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
-    "via": ["qiverse.snowflake"],
-    "subdir": "qiverse.azure",
-    "from": "qiverse.snowflake"
-  },
-  {
     "package": "qiverse.data",
     "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
     "via": ["qiverse.qimatrix"],
