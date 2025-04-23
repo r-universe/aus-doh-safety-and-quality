@@ -23,13 +23,6 @@
   {
     "package": "qiverse.data",
     "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
-    "via": ["qiverse.qimatrix"],
-    "subdir": "qiverse.data",
-    "from": "qiverse.qimatrix"
-  },
-  {
-    "package": "qiverse.data",
-    "url": "https://github.com/AUS-DOH-Safety-and-Quality/qiverse",
     "via": ["qiverse.qimisc"],
     "subdir": "qiverse.data",
     "from": "qiverse.qimisc"
