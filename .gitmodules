@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/aus-doh-safety-and-quality/aus-doh-safety-and-quality.r-universe.dev
 	branch = HEAD
+[submodule "controlcharts"]
+	path = controlcharts
+	url = https://github.com/AUS-DOH-Safety-and-Quality/controlcharts
+	branch = main
 [submodule "qiverse.azure"]
 	path = qiverse.azure
 	url = https://github.com/AUS-DOH-Safety-and-Quality/qiverse
